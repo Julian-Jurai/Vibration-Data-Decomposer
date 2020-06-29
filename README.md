@@ -10,7 +10,7 @@ Follow the instructions [here](https://www.ruby-lang.org/en/documentation/instal
 
 ### Download
 ```
-> git pull git@github.com:Julian-Jurai/decomposer.git
+> git pull https://github.com/Julian-Jurai/decomposer.git
 ```
 
 ## Notes:
